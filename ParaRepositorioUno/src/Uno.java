@@ -6,5 +6,6 @@ public class Uno {
 	int propCuatro;
 	int propCinco;
 	int propSeis;
+	
 
 }
